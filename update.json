@@ -1,9 +1,9 @@
 {
-  "versionCode": 12,
-  "versionName": "0.1.11",
+  "versionCode": 13,
+  "versionName": "0.1.12",
   "package": "ru.mintcandy.bitteam",
-  "apkSha256": "4afe16ab851cf34925b8fb470a16e73c53a218f4245c8fc6665b18e88e5f6792",
+  "apkSha256": "e0d94639b0c8ac3f0da79d23706f459e686eaef4f01e2096ce9a61f1c58fb6f9",
   "certificateSha256": "b407e443fe2b6c924b36e671bfcff741ff7f1ec8e8e2a0d9a51462c442786dc8",
   "downloadUrl": "https://github.com/maxwell2010/bitteam-android-releases/releases/latest/download/bitteam.apk",
-  "releaseUrl": "https://github.com/maxwell2010/bitteam-android-releases/releases/tag/v12"
+  "releaseUrl": "https://github.com/maxwell2010/bitteam-android-releases/releases/tag/v13"
 }

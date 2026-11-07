@@ -16,4 +16,4 @@
 
 [Регистрация BitTeam](https://bit.team/auth/sign-up?ref=Sergeeich)
 
-[mintcandy.ru - создатель приложения](https://mintcandy.ru)
+[mintcandy.ru](https://mintcandy.ru)
